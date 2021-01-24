@@ -15,7 +15,7 @@ def test2():
 
 def test_second_function(test2):
     multiple = test2
-    assert multiple == 5
+    assert multiple == 4
 
 def test_random():
     assert True
