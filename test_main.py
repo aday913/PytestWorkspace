@@ -19,3 +19,6 @@ def test_second_function(test2):
 
 def test_random():
     assert True
+
+def test_always_True():
+    assert True
